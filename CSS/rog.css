@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+#main{
+    background-image: conic-gradient(#85f1b3, #77c0d3, #6a94ef);
+    background-repeat: no-repeat;
+    height: 98.2vh;
+    font-family: 'Roboto', sans-serif;
+}
+.conn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.conn form{
+    background: white;
+    padding: 2rem;
+    width: 35rem;
+    min-width: 5rem;
+    margin: 1rem;
+    height: 26rem;
+    border-radius: 20px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.109);
+}
+.conn h3{
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+.conn p{
+    margin: 10px;
+    font-size: 12px;
+}
+.in{
+    text-align: center;
+    margin: 2rem;
+}
+.in select{
+    width: 80%;
+    margin-top: 3px;
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    background: #effbf4;
+    outline: none;
+}
+.in1{
+    padding: 80px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1.5px dashed #85f1b3;
+}
+.in2{
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+
+}
+.in2 input{
+    background: #3f6ea8;
+    border: none;
+    padding: 13px 120px 13px 120px;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.log{
+    margin: 1rem 5rem 1rem 1rem;
+    display: flex;
+    justify-content: right;
+}
+.log button{
+    padding: 8px;
+    border: none;
+    background: none;
+}
+.log a{
+    color: rgba(21, 20, 92, 0.554);
+    font-size: 15px;
+    font-weight: bold;
+}
