@@ -3,7 +3,7 @@
 
 Using this PHP code you can upload data into multiple databases (Note: You have to use CSV format to upload).
 
-<img src="<img src="https://drive.google.com/file/d/1x0hzz8ZNuO04qFcwKlG5tI7MxdD-Rlv9/view?usp=sharing">">
+<img src="https://drive.google.com/file/d/1x0hzz8ZNuO04qFcwKlG5tI7MxdD-Rlv9/view?usp=sharing">
 
 
 ## Connect to DB
